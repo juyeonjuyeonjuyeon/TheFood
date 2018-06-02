@@ -8,5 +8,8 @@
 </head>
 <body>
  깃 허브!
+ <script>
+ 	location.href="main.jsp"// 메인 페이지로
+ </script>
 </body>
 </html>
